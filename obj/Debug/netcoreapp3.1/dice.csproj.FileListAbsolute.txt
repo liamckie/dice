@@ -1,0 +1,13 @@
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\bin\Debug\netcoreapp3.1\dice.exe
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\bin\Debug\netcoreapp3.1\dice.deps.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\bin\Debug\netcoreapp3.1\dice.runtimeconfig.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\bin\Debug\netcoreapp3.1\dice.runtimeconfig.dev.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\bin\Debug\netcoreapp3.1\dice.dll
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\bin\Debug\netcoreapp3.1\dice.pdb
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\obj\Debug\netcoreapp3.1\dice.AssemblyInfoInputs.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\obj\Debug\netcoreapp3.1\dice.AssemblyInfo.cs
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\obj\Debug\netcoreapp3.1\dice.csproj.CoreCompileInputs.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\obj\Debug\netcoreapp3.1\dice.dll
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\obj\Debug\netcoreapp3.1\dice.pdb
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\obj\Debug\netcoreapp3.1\dice.genruntimeconfig.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\dice\obj\Debug\netcoreapp3.1\dice.csproj.AssemblyReference.cache
